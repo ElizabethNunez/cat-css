@@ -1,0 +1,28 @@
+.header{
+    background-image:url("../imgs/cat-banner.jpeg");
+    background-size: cover;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.products li{
+    display: flex;
+    width: 50%;
+    margin: 20px auto;
+    background-color:bisque;
+    padding: 10px
+}
+
+.products li img {
+    margin-right: 20px;
+}
+
+.footer{
+    text-align: center;
+    background-color: goldenrod;
+}
